@@ -1,0 +1,15 @@
+C:\AulaCSharp\ProjetoGit\ProjetoGithub\bin\Debug\net8.0\ProjetoGithub.exe
+C:\AulaCSharp\ProjetoGit\ProjetoGithub\bin\Debug\net8.0\ProjetoGithub.deps.json
+C:\AulaCSharp\ProjetoGit\ProjetoGithub\bin\Debug\net8.0\ProjetoGithub.runtimeconfig.json
+C:\AulaCSharp\ProjetoGit\ProjetoGithub\bin\Debug\net8.0\ProjetoGithub.dll
+C:\AulaCSharp\ProjetoGit\ProjetoGithub\bin\Debug\net8.0\ProjetoGithub.pdb
+C:\AulaCSharp\ProjetoGit\ProjetoGithub\obj\Debug\net8.0\ProjetoGithub.GeneratedMSBuildEditorConfig.editorconfig
+C:\AulaCSharp\ProjetoGit\ProjetoGithub\obj\Debug\net8.0\ProjetoGithub.AssemblyInfoInputs.cache
+C:\AulaCSharp\ProjetoGit\ProjetoGithub\obj\Debug\net8.0\ProjetoGithub.AssemblyInfo.cs
+C:\AulaCSharp\ProjetoGit\ProjetoGithub\obj\Debug\net8.0\ProjetoGithub.csproj.CoreCompileInputs.cache
+C:\AulaCSharp\ProjetoGit\ProjetoGithub\obj\Debug\net8.0\ProjetoGithub.sourcelink.json
+C:\AulaCSharp\ProjetoGit\ProjetoGithub\obj\Debug\net8.0\ProjetoGithub.dll
+C:\AulaCSharp\ProjetoGit\ProjetoGithub\obj\Debug\net8.0\refint\ProjetoGithub.dll
+C:\AulaCSharp\ProjetoGit\ProjetoGithub\obj\Debug\net8.0\ProjetoGithub.pdb
+C:\AulaCSharp\ProjetoGit\ProjetoGithub\obj\Debug\net8.0\ProjetoGithub.genruntimeconfig.cache
+C:\AulaCSharp\ProjetoGit\ProjetoGithub\obj\Debug\net8.0\ref\ProjetoGithub.dll
